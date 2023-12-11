@@ -1,6 +1,6 @@
 ﻿using Common.Core;
 
-namespace XIVConsoleTools
+namespace XIV.CLI
 {
     public class CommandHelper
     {

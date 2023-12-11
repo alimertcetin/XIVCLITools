@@ -2,7 +2,7 @@
 using Common.Utilities;
 using XIVFileFinder;
 
-namespace XIVConsoleTools
+namespace XIV.CLI
 {
     internal class Program
     {

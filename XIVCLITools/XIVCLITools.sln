@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XIVCLI", "XIVCLI.csproj", "{F8521B72-377F-402F-BF3C-DB503344E724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XIV.CLI", "XIV.CLI.csproj", "{F8521B72-377F-402F-BF3C-DB503344E724}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XIVFileFinder", "..\XIVFileFinder\XIVFileFinder.csproj", "{975B0C1C-8FDE-49FF-A357-1C696259AA1C}"
 EndProject
