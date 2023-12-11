@@ -20,6 +20,9 @@
 # Mono auto generated files
 mono_crash.*
 
+# CodeRush cache
+.cr/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
